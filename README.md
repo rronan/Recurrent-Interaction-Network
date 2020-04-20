@@ -1,2 +1,2 @@
-# Recurrent-Interaction-Networks
-Pytorch implementation of Recurrent Interaction Networks
+# Recurrent-Interaction-Network
+Pytorch implementation of (Recurrent) Interaction Network

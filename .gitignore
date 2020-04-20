@@ -1,0 +1,10 @@
+checkpoints/
+__pycache__
+intphys/
+tests/
+sweeps
+pred/
+intphys_old/
+src/rollout/*.txt
+src/rollout/answers/
+src/rollout/*yaml
