@@ -1,5 +1,5 @@
 # Recurrent-Interaction-Network
-Pytorch implementation of (Recurrent) Interaction Network
+Pytorch implementation of (Recurrent) Interaction Network, from "Occlusion resistant learning of intuitive physics from videos"
 
 
 The code is divided in two modules:
